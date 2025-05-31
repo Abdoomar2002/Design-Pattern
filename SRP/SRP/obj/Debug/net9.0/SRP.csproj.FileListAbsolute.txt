@@ -1,0 +1,14 @@
+D:\DesginPattern\SRP\SRP\bin\Debug\net9.0\SRP.exe
+D:\DesginPattern\SRP\SRP\bin\Debug\net9.0\SRP.deps.json
+D:\DesginPattern\SRP\SRP\bin\Debug\net9.0\SRP.runtimeconfig.json
+D:\DesginPattern\SRP\SRP\bin\Debug\net9.0\SRP.dll
+D:\DesginPattern\SRP\SRP\bin\Debug\net9.0\SRP.pdb
+D:\DesginPattern\SRP\SRP\obj\Debug\net9.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesginPattern\SRP\SRP\obj\Debug\net9.0\SRP.AssemblyInfoInputs.cache
+D:\DesginPattern\SRP\SRP\obj\Debug\net9.0\SRP.AssemblyInfo.cs
+D:\DesginPattern\SRP\SRP\obj\Debug\net9.0\SRP.csproj.CoreCompileInputs.cache
+D:\DesginPattern\SRP\SRP\obj\Debug\net9.0\SRP.dll
+D:\DesginPattern\SRP\SRP\obj\Debug\net9.0\refint\SRP.dll
+D:\DesginPattern\SRP\SRP\obj\Debug\net9.0\SRP.pdb
+D:\DesginPattern\SRP\SRP\obj\Debug\net9.0\SRP.genruntimeconfig.cache
+D:\DesginPattern\SRP\SRP\obj\Debug\net9.0\ref\SRP.dll
