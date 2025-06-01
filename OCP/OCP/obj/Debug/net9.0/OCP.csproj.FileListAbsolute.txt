@@ -1,0 +1,15 @@
+D:\DesginPattern\OCP\OCP\bin\Debug\net9.0\OCP.exe
+D:\DesginPattern\OCP\OCP\bin\Debug\net9.0\OCP.deps.json
+D:\DesginPattern\OCP\OCP\bin\Debug\net9.0\OCP.runtimeconfig.json
+D:\DesginPattern\OCP\OCP\bin\Debug\net9.0\OCP.dll
+D:\DesginPattern\OCP\OCP\bin\Debug\net9.0\OCP.pdb
+D:\DesginPattern\OCP\OCP\obj\Debug\net9.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesginPattern\OCP\OCP\obj\Debug\net9.0\OCP.AssemblyInfoInputs.cache
+D:\DesginPattern\OCP\OCP\obj\Debug\net9.0\OCP.AssemblyInfo.cs
+D:\DesginPattern\OCP\OCP\obj\Debug\net9.0\OCP.csproj.CoreCompileInputs.cache
+D:\DesginPattern\OCP\OCP\obj\Debug\net9.0\OCP.sourcelink.json
+D:\DesginPattern\OCP\OCP\obj\Debug\net9.0\OCP.dll
+D:\DesginPattern\OCP\OCP\obj\Debug\net9.0\refint\OCP.dll
+D:\DesginPattern\OCP\OCP\obj\Debug\net9.0\OCP.pdb
+D:\DesginPattern\OCP\OCP\obj\Debug\net9.0\OCP.genruntimeconfig.cache
+D:\DesginPattern\OCP\OCP\obj\Debug\net9.0\ref\OCP.dll
