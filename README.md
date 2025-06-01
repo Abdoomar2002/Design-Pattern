@@ -6,6 +6,8 @@
 ## 📚 الفيديوهات التعليمية
 
 📹 **Single Responsibility Principle (SRP)**  
+📹 **Open Closed Principle (OCP)**  
+
 [شوف الفيديو على يوتيوب](https://youtube.com/playlist?list=PL9A27sUizeTqI32CsNynxVFgfJ0dnNqDn&si=nC7fN9juxPUznghm)  
 فيه شرح مبسط بالمصري مع أمثلة عملية.
 
@@ -18,6 +20,7 @@
 
 ## 🧩 الملفات الرئيسية
 SRP
+OCP
 
 ## 🚀 ازاي تشغل الكود؟
 
