@@ -1,0 +1,15 @@
+D:\DesginPattern\LSP\LSP\bin\Debug\net9.0\LSP.exe
+D:\DesginPattern\LSP\LSP\bin\Debug\net9.0\LSP.deps.json
+D:\DesginPattern\LSP\LSP\bin\Debug\net9.0\LSP.runtimeconfig.json
+D:\DesginPattern\LSP\LSP\bin\Debug\net9.0\LSP.dll
+D:\DesginPattern\LSP\LSP\bin\Debug\net9.0\LSP.pdb
+D:\DesginPattern\LSP\LSP\obj\Debug\net9.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesginPattern\LSP\LSP\obj\Debug\net9.0\LSP.AssemblyInfoInputs.cache
+D:\DesginPattern\LSP\LSP\obj\Debug\net9.0\LSP.AssemblyInfo.cs
+D:\DesginPattern\LSP\LSP\obj\Debug\net9.0\LSP.csproj.CoreCompileInputs.cache
+D:\DesginPattern\LSP\LSP\obj\Debug\net9.0\LSP.sourcelink.json
+D:\DesginPattern\LSP\LSP\obj\Debug\net9.0\LSP.dll
+D:\DesginPattern\LSP\LSP\obj\Debug\net9.0\refint\LSP.dll
+D:\DesginPattern\LSP\LSP\obj\Debug\net9.0\LSP.pdb
+D:\DesginPattern\LSP\LSP\obj\Debug\net9.0\LSP.genruntimeconfig.cache
+D:\DesginPattern\LSP\LSP\obj\Debug\net9.0\ref\LSP.dll
