@@ -9,7 +9,7 @@
 📹 **Open Closed Principle (OCP)**  
 📹 **Liskov Substitution Principle (LSP)**  
 📹 **Interface Segregation Principle (ISP)**  
-📹 **Dependency Invertion Principle (DIP)**
+📹 **Dependency Inversion Principle (DIP)**
 
 [شوف الفيديو على يوتيوب](https://youtube.com/playlist?list=PL9A27sUizeTqI32CsNynxVFgfJ0dnNqDn&si=nC7fN9juxPUznghm)  
 فيه شرح مبسط بالمصري مع أمثلة عملية.
