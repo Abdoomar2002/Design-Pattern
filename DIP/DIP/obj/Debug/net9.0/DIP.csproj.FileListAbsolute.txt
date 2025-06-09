@@ -1,0 +1,15 @@
+D:\DesginPattern\DIP\DIP\bin\Debug\net9.0\DIP.exe
+D:\DesginPattern\DIP\DIP\bin\Debug\net9.0\DIP.deps.json
+D:\DesginPattern\DIP\DIP\bin\Debug\net9.0\DIP.runtimeconfig.json
+D:\DesginPattern\DIP\DIP\bin\Debug\net9.0\DIP.dll
+D:\DesginPattern\DIP\DIP\bin\Debug\net9.0\DIP.pdb
+D:\DesginPattern\DIP\DIP\obj\Debug\net9.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesginPattern\DIP\DIP\obj\Debug\net9.0\DIP.AssemblyInfoInputs.cache
+D:\DesginPattern\DIP\DIP\obj\Debug\net9.0\DIP.AssemblyInfo.cs
+D:\DesginPattern\DIP\DIP\obj\Debug\net9.0\DIP.csproj.CoreCompileInputs.cache
+D:\DesginPattern\DIP\DIP\obj\Debug\net9.0\DIP.sourcelink.json
+D:\DesginPattern\DIP\DIP\obj\Debug\net9.0\DIP.dll
+D:\DesginPattern\DIP\DIP\obj\Debug\net9.0\refint\DIP.dll
+D:\DesginPattern\DIP\DIP\obj\Debug\net9.0\DIP.pdb
+D:\DesginPattern\DIP\DIP\obj\Debug\net9.0\DIP.genruntimeconfig.cache
+D:\DesginPattern\DIP\DIP\obj\Debug\net9.0\ref\DIP.dll
