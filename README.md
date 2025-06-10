@@ -20,7 +20,7 @@
 
 - شرح عملي لمبدأ الـ **SRP** باستخدام كلاس `Journal` وكلاس `Persistence`.
 - شرح عملي لمبدأ الـ **OCP** باستخدام واجهة `ISpecefication` وواجهة `IFilter`
-- شرح عملي لمبدأ الـ **LSP** باستخدام كلاس `Rectangle` وواجهة `Square`
+- شرح عملي لمبدأ الـ **LSP** باستخدام كلاس `Rectangle` وكلاس `Square`
 - شرح عملي لمبدأ الـ **ISP** باستخدام واجهة `IPrinter` وواجهة `IScan`
 - شرح عملي لمبدأ الـ **DIP** باستخدام واجهة `IRelationship` وكلاس `Relationship`
 
