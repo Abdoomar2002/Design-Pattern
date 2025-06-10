@@ -1,12 +1,12 @@
-# 📝 Design Pattern Examples – Abdelrahman Omar
+# 📝 SOLID Principle Examples – Abdelrahman Omar
 
-مرحبًا! ده مشروع بسيط لتوضيح مبادئ **Design Patterns** و**SOLID Principles** في البرمجة باستخدام C#.  
+مرحبًا! ده مشروع بسيط لتوضيح مبادئ **SOLID Principles** في البرمجة باستخدام C#.  
 الهدف من المشروع هو مساعدة المبرمجين يفهموا إزاي يطبقوا المبادئ دي بشكل عملي وبسيط.
 
 ## 📚 الفيديوهات التعليمية
 
 📹 **Single Responsibility Principle (SRP)**  
-📹 **Open Closed Principle (OCP)**  
+📹 **Open-Closed Principle (OCP)**  
 📹 **Liskov Substitution Principle (LSP)**  
 📹 **Interface Segregation Principle (ISP)**  
 📹 **Dependency Inversion Principle (DIP)**
@@ -19,12 +19,20 @@
 ## 💻 المحتوى
 
 - شرح عملي لمبدأ الـ **SRP** باستخدام كلاس `Journal` وكلاس `Persistence`.
-- أمثلة تانية هتضاف لاحقًا لباقي مبادئ **SOLID**.
+- شرح عملي لمبدأ الـ **OCP** باستخدام واجهة `ISpecefication` وواجهة `IFilter`
+- شرح عملي لمبدأ الـ **LSP** باستخدام كلاس `Rectangle` وواجهة `Square`
+- شرح عملي لمبدأ الـ **ISP** باستخدام واجهة `IPrinter` وواجهة `IScan`
+- شرح عملي لمبدأ الـ **DIP** باستخدام واجهة `IRelationship` وكلاس `Relationship`
 
 ## 🧩 الملفات الرئيسية
 
-SRP
-OCP
+SRP (Single Responsibility Principle)
+OCP (Open-Closed Principle)
+LSP (Liskov Substitution Principle)
+ISP (Interface Segregation Principle)
+DIP (Dependency Inversion Principle)
+
+
 
 ## 🚀 ازاي تشغل الكود؟
 
